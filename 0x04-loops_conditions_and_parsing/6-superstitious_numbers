@@ -16,7 +16,5 @@ while [ $i -le 20 ]; do
             echo $i
             ;;
     esac
-    
-    # Increment the counter
     ((i++))
 done
